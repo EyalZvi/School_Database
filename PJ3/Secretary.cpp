@@ -1,9 +1,3 @@
-/* Assignment: 1
-Author1: Eyal Zvi,
-ID: 319067732
-Author2: Saar Ben-Yochana,
-ID: 313234155
-*/
 #include "Secretary.h"
 
 Secretary::Secretary()
